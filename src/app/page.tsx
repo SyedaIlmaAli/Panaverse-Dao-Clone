@@ -1,5 +1,3 @@
-import Footer from "@/components/layout/Footer";
-import Header from "@/components/layout/Header";
 import CoreCourses from "@/components/widget/Core-Courses";
 import Hero from "@/components/widget/Hero";
 import Outcome from "@/components/widget/Outcome";

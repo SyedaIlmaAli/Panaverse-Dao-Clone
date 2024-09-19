@@ -1,4 +1,3 @@
-import Image from "next/image"
 import Blockchain from '@/assets/images/Blockchain.webp'
 import AI from '@/assets/images/ai.webp'
 import Cloud from '@/assets/images/cloud.webp'
