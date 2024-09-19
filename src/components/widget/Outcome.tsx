@@ -21,7 +21,7 @@ function Outcome() {
 
                     <div className=" flex-1 relative">
                         <h2 className="text-4xl text-purple-700 font-bold">The Outcome for Participants of the Program</h2>
-                        <p className="text-lg  text-slate-600 mt-4 font-medium">As a graduate of this program, you will own valuable products such as Full-Stack App Templates, AR and VR Experiences, and APIs that are marketed globally by the Panaverse DAO. You will also have the opportunity to offer your services at a rate of $50 per hour, providing a path to financial stability while contributing to the growth of Pakistan's software exports.</p>
+                        <p className="text-lg  text-slate-600 mt-4 font-medium">As a graduate of this program, you will own valuable products such as Full-Stack App Templates, AR and VR Experiences, and APIs that are marketed globally by the Panaverse DAO. You will also have the opportunity to offer your services at a rate of $50 per hour, providing a path to financial stability while contributing to the growth of Pakistan&apos;s software exports.</p>
                         <div className="mt-6 grid grid-cols-2 gap-x-2 gap-y-4 ">
                             {
                                 outcomePrograms.map((item, i) => (

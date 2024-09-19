@@ -58,7 +58,7 @@ function SpecializedTracksContent() {
             </div>
             <div className='px-4 py-6 space-y-4 gap-x-4 basis-4/12 '>
                 {
-                    specializedTracksBoxesData.map((item, i) => {
+                    specializedTracksBoxesData.map((item) => {
                         return (
                             <div key={item.slug} className='flex mt-4 cursor-pointer items-center gap-x-4' onClick={() => setSelectedItem(item.slug)}>
                                 <div className='hover:scale-105 rounded'>
